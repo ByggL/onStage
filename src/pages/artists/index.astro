@@ -71,6 +71,10 @@ const posts = (await getCollection("blog")).sort(
           font-size: 1.563em;
         }
       }
+      p {
+        font-size: small;
+        color: black;
+      }
     </style>
   </head>
   <body>
@@ -81,7 +85,7 @@ const posts = (await getCollection("blog")).sort(
           {
             posts.map((post) => (
               <li>
-                <a href={`/blog/${post.slug}/`}>
+                <a href={`/artists/${post.slug}/`}>
                   <img
                     width={720}
                     height={360}
@@ -89,6 +93,7 @@ const posts = (await getCollection("blog")).sort(
                     alt=""
                   />
                   <h4 class="title">{post.data.title}</h4>
+                  {post.data.summary ? <p>{post.data.summary}</p> : ""}
                 </a>
               </li>
             ))
