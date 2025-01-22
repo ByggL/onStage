@@ -6,7 +6,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../../consts";
 import { getCollection } from "astro:content";
 import FormattedDate from "../../components/FormattedDate.astro";
 
-const posts = (await getCollection("artists")).sort(
+const posts = (await getCollection("news")).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 ---
@@ -20,15 +20,15 @@ const posts = (await getCollection("artists")).sort(
         width: 960px;
       }
       ul {
-        display: flex;
-        flex-wrap: wrap;
+        /* display: flex;s */
         gap: 2rem;
         list-style-type: none;
-        margin: 0;
         padding: 0;
       }
       ul li {
         width: calc(50% - 1rem);
+        margin-left: auto;
+        margin-right: auto;
       }
       ul li * {
         text-decoration: none;
