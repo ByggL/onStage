@@ -39,8 +39,13 @@ body {
   margin: 0;
   padding: 0;
   text-align: left;
-  background: var(--base);
-  background-size: 100% 600px;
+  background: linear-gradient(
+    180deg,
+    rgba(199, 238, 235, 1) 0%,
+    rgba(120, 194, 188, 1) 15%,
+    rgba(112, 186, 181, 1) 100%
+  );
+  /* background-size: 100% 600px; */
   word-wrap: break-word;
   overflow-wrap: break-word;
   color: rgb(var(--gray-dark));
