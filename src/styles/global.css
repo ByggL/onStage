@@ -34,6 +34,13 @@
   font-style: normal;
   font-display: swap;
 }
+@font-face {
+  font-family: "RL Aqva";
+  src: url("/fonts/RL Aqva Black.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
 body {
   font-family: "Montserrat", sans-serif;
   margin: 0;
@@ -81,7 +88,7 @@ h6 {
 }
 h1 {
   font-size: 3.052em;
-  font-family: rl-aqva, sans-serif;
+  font-family: "RL Aqva", sans-serif;
 }
 h2 {
   font-size: 2.441em;
