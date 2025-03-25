@@ -1,8 +1,8 @@
 ---
-title: "Powerwolf"
+title: "Friday My Lady"
 description: "Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro."
 pubDate: "Jun 19 2024"
-heroImage: "/artists_placeholder.png"
+heroImage: "/fridaymylady.jpg"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra."
 ---
 
