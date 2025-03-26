@@ -128,6 +128,7 @@ p {
   margin-bottom: 1em;
 }
 .prose p {
+  text-align: justify;
   margin-bottom: 2em;
 }
 textarea {
