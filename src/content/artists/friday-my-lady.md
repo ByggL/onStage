@@ -4,6 +4,7 @@ description: "Here is a sample of some basic Markdown syntax that can be used wh
 pubDate: "Jun 19 2024"
 heroImage: "/fridaymylady.jpg"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra."
+link: "https://www.instagram.com/fridaymylady_/"
 ---
 
 Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
