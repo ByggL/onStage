@@ -15,6 +15,6 @@ Friday My Lady, c'est la fusion entre deux guitares saturées et parfois dissona
 
 # Leur musique
 
-##### Garage Recordings
+##### Un EP : Garage Recordings
 
 <a href="https://open.spotify.com/intl-fr/album/5UhvoSBUvuxKUcBuCnEWK1?si=2k-vXAIiSfS5YCOuenQeOg" target="_blank">![Garage Recordings Cover](../../../public/GarageRecordingsCover.PNG)</a>
