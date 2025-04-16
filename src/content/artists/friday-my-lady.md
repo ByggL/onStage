@@ -1,20 +1,20 @@
 ---
 title: "Friday My Lady"
-description: "Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro."
+description: "Description du groupe Friday My Lady."
 pubDate: "Jun 19 2024"
 heroImage: "/fridaymylady.jpg"
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra."
+summary: "Friday My Lady, ."
 link: "https://www.instagram.com/fridaymylady_/"
 ---
 
-Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
+
 
 ## Headings
 
 The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
 
 # H1
-
+Friday My Lady 
 ## H2
 
 ### H3
@@ -27,9 +27,8 @@ The following HTML `<h1>`—`<h6>` elements represent six levels of section head
 
 ## Paragraph
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
-
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+Friday My Lady, c'est avant tout une rencontre de lycée en 2022, 4 jeunes vendéens de 18 ans, aujourd'hui étudiants avec pour ambition de vivre de la musique: Lény Giraud à la batterie, Balthazar Helbert Cartagena à la basse, Vérone Attard à la guitare lead, Mathis chevrier à la guitare rythmique et à la voix. 4 membres, qui, par la musique et la motivation du punk et du garage rock, ont décidé de se retrouver et de répéter dans un garage  pour jouer la musique qui les anime. Tous influencés par le punk et le garage avec des groupes tels que Artic Monkers, The libertines, Sonic Youth en passant par Stiff Richards, Amyl and the Sniffers et les influences des 70's. 
+Friday My Lady, c'est la fusion entre deux guitares saturées et parfois dissonantes et d'un combo basse batterie hyper efficace et dansant. Aujourd'hui, le groupe a environ une trentaine de dates à son actif et un EP "Garage Recordings" enregistré dans le studio "the Analog Seeds" qui est maintenant disponible sur toutes les plateformes de steaming depuis le 22 Novembre 2024. 
 
 ## Images
 
