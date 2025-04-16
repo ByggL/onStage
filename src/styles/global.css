@@ -126,6 +126,7 @@ a:hover {
 }
 p {
   margin-bottom: 1em;
+  text-align: justify;
 }
 .prose p {
   text-align: justify;
