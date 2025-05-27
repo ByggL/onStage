@@ -41,6 +41,7 @@ const posts = (await getCollection("artists")).sort(
       }
       ul li a {
         display: block;
+        color: black
       }
       .title {
         margin: 0;
@@ -51,7 +52,7 @@ const posts = (await getCollection("artists")).sort(
 
       ul li a:hover h4,
       ul li a:hover .date {
-        color: rgb(var(--accent));
+        color: #df0006;
       }
       ul a:hover img {
         box-shadow: var(--box-shadow);
@@ -72,7 +73,7 @@ const posts = (await getCollection("artists")).sort(
         }
       }
       p {
-        font-size: small;
+        font-size:medium;
         color: black;
       }
 
